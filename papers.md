@@ -16,6 +16,7 @@ This paper presents a feature-based survey of 17 tools with ML asset management 
 1. [ModelCI-e: Enabling Continual Learning in Deep Learning Serving Systems](https://arxiv.org/abs/2106.03122) <br>
 This paper implements a lightweight MLOps plugin, termed ModelCI-e (continuous integration and evolution). It embraces continual learning (CL) and ML deployment techniques, providing end-to-end supports for model updating and validation without serving engine customization.
 1. [Hopkins, Aspen, and Serena Booth. "Machine Learning Practices Outside Big Tech: How Resource Constraints Challenge Responsible Development." (2021).](http://www.slbooth.com/papers/AIES-2021_Hopkins_and_Booth.pdf)
+1. [A software engineering perspective on engineering machine learning systems: State of the art and challenges](https://www.sciencedirect.com/science/article/abs/pii/S016412122100128X). [Link @Arxiv](https://arxiv.org/ftp/arxiv/papers/2012/2012.07919.pdf)
 
 
 
